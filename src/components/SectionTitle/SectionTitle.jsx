@@ -4,4 +4,6 @@ const SectionTitle = () => {
   )
 }
 
-export default SectionTitle
+export default SectionTitle;
+
+// 64-5
